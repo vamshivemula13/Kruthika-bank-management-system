@@ -1,0 +1,18 @@
+body{
+background:#eef2f7;
+font-family:Arial;
+}
+
+.navbar{
+font-size:20px;
+font-weight:bold;
+}
+
+.card{
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+}
+
+h2{
+font-weight:bold;
+}
